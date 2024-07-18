@@ -12,11 +12,11 @@ const About = () => {
                     <div className="px-lg-5 about-text text-justify">
                         <p className="about-me-block">About</p>
                         <p>
-                            Senior Developer specializing in Blockchaindevelopment and WEB development.
-                            Experienced with all stages of the development cycle for blockchain and dynamic web projects and cloud platforms.
-                            Well- versed in numerous programming languages including JavaScript and its modern frameworks as well as Hybrid development.
-                            Have developed DEX, DeFi and NFT marketplace and my role is smart contract development and integration frontend with smart contract.
-                            Considering myself an excellent software engineer and would love to say one of the most quali ed engineers when it comes to any kind of development such as React, Vue, Angular, Node.js.                        </p>
+                            As a seasoned Software Engineer with over 10 years of experience, I possess a diverse skill set encompassing both traditional web development and AI technologies.
+                            My expertise lies in harmonizing front-end and back-end technologies, with a specialized focus on the Java SpringBoot + React + Oracle stack.
+                            In addition to building robust web applications using advanced JavaScript and TypeScript and Java, My leadership abilities shine in Agile environments, where I guide teams with a collaborative and communicative approach, fostering innovation and efficiency.
+                            Furthermore, my strong commitment to continuous learning keeps me at the forefront of modern development practices, ensuring that I deliver cutting-edge solutions that meet and exceed client expectations.
+                        </p>
                     </div>
                     <div className="text-center mt-5">
                         <img src="static/images/programmer.svg" alt="programmer" className="programmer" />

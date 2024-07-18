@@ -63,19 +63,6 @@ const Skills = () => {
               </Row>
             </Col>
           </Row>
-          <Row className="d-flex justify-content-center mt-3 mb-5">
-            <Col md={5} xs={12}>
-              <Carousel variant="dark">
-                {certficatesList.map(cert => (
-                  <Carousel.Item interval={1500}>
-                    <a href={cert.href} target="_blank" rel="noreferrer">
-                      <img className="d-block w-100" src={cert.src} alt="" loading="lazy" />
-                    </a>
-                  </Carousel.Item>
-                ))}
-              </Carousel>
-            </Col>
-          </Row>
         </Suspense>
       </Container>
     </>

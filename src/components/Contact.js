@@ -37,7 +37,7 @@ const Contact = () => {
               <Button className="contact-btns bg-custom-blue mr-2 shadow border-0 py-1 px-2" onClick={() => window.open('mailto:sunshine95331@gmail.com?subject="Hello !"', '_blank')}>
                 <FontAwesomeIcon size="1x" icon={faEnvelope} /><span>Email</span>
               </Button>
-              <Button className="contact-btns bg-custom-blue shadow border-0 py-1" onClick={() => window.open('https://www.linkedin.com/in/bipin-mv', '_blank')}>
+              <Button className="contact-btns bg-custom-blue shadow border-0 py-1" onClick={() => window.open('https://www.linkedin.com/in/nesa-william-3162ba31a/', '_blank')}>
                 <FontAwesomeIcon size="1x" icon={faLinkedinIn} /><span>Linkedin</span>
               </Button>
             </div>

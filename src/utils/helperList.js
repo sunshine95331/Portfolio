@@ -1,85 +1,98 @@
-export const skillsData = [{
-  name: 'React',
-  rating: 70
-}, {
-  name: 'Angular',
-  rating: 75
-}, {
-  name: 'Typescript',
-  rating: 75
-}, {
-  name: 'Express JS',
-  rating: 45
-}, {
-  name: 'CSS',
-  rating: 65
-}, {
-  name: 'JavaScript',
-  rating: 50
-}, {
-  name: 'Web3 JS',
-  rating: 75
-}, {
-  name: 'Zustand',
-  rating: 60
-}, {
-  name: 'Highcharts',
-  rating: 65
-}, {
-  name: 'Etherum',
-  rating: 60
-}, {
-  name: 'HTML',
-  rating: 60
-}, {
-  name: 'Bootstrap',
-  rating: 65
-}, {
-  name: 'SCSS',
-  rating: 40
-},];
+export const skillsData = [
+  {
+    name: 'Java',
+    rating: 90
+  },
+  {
+    name: 'Java SpringBoot',
+    rating: 80
+  },
+  {
+    name: 'React',
+    rating: 70
+  }, {
+    name: 'Angular',
+    rating: 75
+  }, {
+    name: 'Typescript',
+    rating: 75
+  }, {
+    name: 'CSS',
+    rating: 65
+  }, {
+    name: 'JavaScript',
+    rating: 50
+  }, {
+    name: 'Web3 JS',
+    rating: 75
+  }, {
+    name: 'Highcharts',
+    rating: 65
+  }, {
+    name: 'Etherum',
+    rating: 60
+  }, {
+    name: 'HTML',
+    rating: 60
+  }, {
+    name: 'Bootstrap',
+    rating: 65
+  }, {
+    name: 'SCSS',
+    rating: 40
+  },];
 
 
-export const skillsList = [{
-  label: 'React JS',
-  src: '/static/icons/reactjs.svg',
-}, {
-  label: 'Javascript',
-  src: '/static/icons/javascript.png',
-}, {
-  label: 'Node JS',
-  src: '/static/icons/nodejs.svg',
-}, {
-  label: 'Express JS',
-  src: '/static/icons/express.png'
-}, {
-  label: 'Git',
-  src: '/static/icons/git.svg'
-}, {
-  label: 'TypeScript',
-  src: '/static/icons/typescript.png'
-}, {
-  label: 'Material UI',
-  src: '/static/icons/material.svg'
-}, {
-  label: 'Bootstrap',
-  src: '/static/icons/bootstrap.png'
-}, {
-  label: 'Sass',
-  src: '/static/icons/sass.svg'
-}, {
-  label: 'Highcharts',
-  src: '/static/icons/highcharts.svg'
-}, {
-  label: 'HTML5',
-  src: '/static/icons/html.png'
-}, {
-  label: 'PostgreSQL',
-  src: '/static/icons/postgres.png'
-}, {
-  label: 'CSS3',
-  src: '/static/icons/css3.png'
-}];
+export const skillsList = [
+  {
+    label: 'Java',
+    src: '/static/icons/java.png',
+  },
+  {
+    label: 'Java SpringBoot',
+    src: '/static/icons/springboot.png',
+  },
+
+  {
+    label: 'React JS',
+    src: '/static/icons/reactjs.svg',
+  }, {
+    label: 'Javascript',
+    src: '/static/icons/javascript.png',
+  }, {
+    label: 'Node JS',
+    src: '/static/icons/nodejs.svg',
+  }, {
+    label: 'Express JS',
+    src: '/static/icons/express.png'
+  }, {
+    label: 'Git',
+    src: '/static/icons/git.svg'
+  }, {
+    label: 'TypeScript',
+    src: '/static/icons/typescript.png'
+  }, {
+    label: 'Material UI',
+    src: '/static/icons/material.svg'
+  }, {
+    label: 'Bootstrap',
+    src: '/static/icons/bootstrap.png'
+  }, {
+    label: 'Sass',
+    src: '/static/icons/sass.svg'
+  }, {
+    label: 'Highcharts',
+    src: '/static/icons/highcharts.svg'
+  }, {
+    label: 'HTML5',
+    src: '/static/icons/html.png'
+  }, {
+    label: 'PostgreSQL',
+    src: '/static/icons/postgres.png'
+  }, {
+    label: 'CSS3',
+    src: '/static/icons/css3.png'
+  }];
 
 export const projectsList = [{
   label: 'Small Business Site',
@@ -126,8 +139,8 @@ export const contactDetails = [{
 }, {
   iconSrc: "static/icons/linkedin.svg",
   type: "LinkedIn",
-  data: "Veroljub",
-  href: "https://www.linkedin.com/in/veroljub-djordjevic-532443307/"
+  data: "Nesa",
+  href: "https://www.linkedin.com/in/nesa-william-3162ba31a/"
 }];
 
 export const certficatesList = [{
